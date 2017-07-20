@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 75414429,
+      "firstName": "Neoma",
+      "lastName": "Hudson",
+      "email": "Billy31@yahoo.com"
+    },
+    {
+      "id": 72118433,
+      "firstName": "Alycia",
+      "lastName": "Friesen",
+      "email": "Waylon.Weissnat10@gmail.com"
+    },
+    {
+      "id": 66290182,
+      "firstName": "Nils",
+      "lastName": "Walsh",
+      "email": "Gordon14@yahoo.com"
+    },
+    {
+      "id": 44081755,
+      "firstName": "Annabelle",
+      "lastName": "Ruecker",
+      "email": "Trace_Gorczany40@yahoo.com"
+    }
+  ]
+}
