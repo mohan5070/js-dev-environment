@@ -58,3 +58,5 @@ typings/
 .env
 
 .idea/workspace.xml
+dist/index.html
+dist/main.c7ce9c616c948f078b68.js.map
