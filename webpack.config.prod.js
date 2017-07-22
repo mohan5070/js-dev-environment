@@ -1,5 +1,5 @@
-import path from 'path';
 import webpack from 'webpack';
+import path from 'path';
 import HtmlWebpackPlugin from 'html-webpack-plugin';
 import WebpackMd5Hash from 'webpack-md5-hash';
 import ExtractTextPlugin from 'extract-text-webpack-plugin';
@@ -49,7 +49,7 @@ export default {
             inject: true,
             // Properties you define here are available in index.html
             // using htmlWebpackPlugin.options.varName
-            trackJSToken: '43ad216f57d94259968435894490a5c7'
+            trackJSToken: 'INSERT YOUR TOKEN HERE'
         }),
 
         // Eliminate duplicate packages when generating bundle
